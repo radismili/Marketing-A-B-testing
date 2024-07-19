@@ -20,7 +20,6 @@ add Codeadd Markdown
 
 Objectives:
 
-add Codeadd Markdown
-Analyzed the groups (EDA);
-Find if the ads were successful;
-Applied hypothesis tests and reached appropriate conclusions.
+- Analyze the groups (EDA);
+- Find if the ads were successful;
+- Applie hypothesis tests and reache appropriate conclusions.
